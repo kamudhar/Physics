@@ -1,1 +1,1 @@
-# IBDP-Physics-HL
+# Physics HL
